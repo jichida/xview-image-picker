@@ -1,0 +1,26 @@
+{
+  "name": "xview-image-picker",
+  "version": "1.0.0",
+  "description": "wrap image-picker fro xview",
+  "main": "./lib/index",
+  "module": "./es/index",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jichida/xview-image-picker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jichida/xview-image-picker/issues"
+  },
+  "homepage": "https://github.com/jichida/xview-image-picker#readme",
+  "dependencies": {
+    "classnames": "^2.2.6",
+    "react": "^16.7.0",
+    "rmc-feedback": "^2.0.0"
+  }
+}
